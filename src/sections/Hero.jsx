@@ -1,6 +1,6 @@
 import { Download, Briefcase, Terminal, Sparkles, Mail } from "lucide-react";
 import { personalInfo } from "../data/portfolioData";
-import fotoProfil from "../assets/profil.jpeg";
+import fotoProfil from "../assets/Profil.jpeg";
 
 export default function Hero() {
   return (
