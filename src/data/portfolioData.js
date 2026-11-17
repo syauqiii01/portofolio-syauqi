@@ -29,16 +29,19 @@ export const certifications = [
     title: "Cloud Computing Cohort — Bangkit Academy by Google, GoTo, Traveloka",
     year: "2024",
     detail: "Merancang dan men-deploy aplikasi cloud-native menggunakan Google Cloud Platform (GCP) dan arsitektur containerized.",
+    fileUrl: "/certificates/sertifikat-bangkit.pdf", // Sesuaikan nama & ekstensi file Anda
   },
   {
     title: "MikroTik Certified Network Associate (MTCNA)",
     year: "2024",
     detail: "Sertifikasi kompetensi manajemen jaringan, routing, firewall, dan konfigurasi perangkat MikroTik.",
+    fileUrl: "/certificates/sertifikat-mtcna.pdf", // Sesuaikan nama & ekstensi file Anda
   },
   {
     title: "Microsoft Excel Certificate (Data Analysis & VBA)",
     year: "2026",
     detail: "Pengolahan dataset kompleks menggunakan Pivot Tables, Pivot Charts, rumus logika lanjutan, serta otomatisasi dasar dengan VBA.",
+    fileUrl: "/certificates/sertifikat-excel.pdf", // Sesuaikan nama & ekstensi file Anda
   },
 ];
 
